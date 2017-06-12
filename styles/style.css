@@ -1,0 +1,205 @@
+.navbar {
+	text-align: center;
+	padding: 20px;
+}
+#section1 {
+	background-color: #86509C;
+}
+html body{
+  width: 100%;
+}
+.container{
+  width: 100% !important;
+}
+.menu {
+	margin-top: 19px;
+	color: white;
+	margin-right:-15px ;
+	margin-left:-5px ;
+}
+#lgo {
+	margin-left: -300px;
+}
+.menu:hover {
+	background-color: #593767;
+	border-radius: 5px;
+}
+.texto {
+	color: white;
+	padding: 40px;
+}
+.boton1 {
+	height: 55px;
+	width: 250px;
+	background-color: #EC7C4A;
+	margin: 0 auto;
+	padding: 10px;
+	box-shadow: 0px 5px 0px 0px  #E07B57;
+	border-radius: 3px;
+	display: inline-block;
+}
+.textob {
+	color: white;
+}
+a{
+	text-decoration: none !important;
+}
+#section2 {
+	background-color: #17C1A4;
+}
+.texto2 {
+	color: white;
+	padding-top: 70px;
+	padding-bottom: 10px;
+}
+.titulo {
+	font-family: 'Palanquin Dark', sans-serif !important;
+}
+/*div{
+	border: 1px solid black;
+}*/
+.padding {
+	padding-top: 90px;
+	padding-bottom: 90px;
+}
+.logos {
+	padding-bottom: 40px;
+}
+.texto3 {
+	padding-top: 70px;
+	padding-bottom: 10px;
+}
+#section3 {
+	background-color: #E7F2F8;
+}
+.azul {
+	color: #4FC1E9;
+}
+.line {
+	width:88px;
+	height:4px;
+	background-color: rgb(20,165,140);
+	margin: 0px auto;
+}
+.after {
+	margin-top: 10px;
+}
+#line2{
+	background-color:	#D5DFE8;
+}
+#section5 {
+	background-color: #FFDC98;
+}
+#line3 {
+ background-color: #EBEDEC;
+}
+#line4 {
+	background-color: #F0D085;
+}
+.boton {
+	width: 100px;
+	height: 35px;
+	background-color: #F1D08D;
+	text-align: center;
+	border-radius: 5px;
+	display: inline-block;
+	margin-right: 5px;
+	color: black
+}
+.portfolio {
+	padding-top: 40px;
+	padding-bottom: 60px;
+}
+.boton:hover {
+	background-color: #FCFCFC;
+}
+.portfolio2 {
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+#LoadMore {
+	background-color: #1EBFA3;
+	box-shadow: 0px 5px 0px 0px #1EB693 ;
+}
+.padding2 {
+	padding-top: 40px;
+	padding-bottom: 90px;
+}
+#section6 {
+	background-color: #D74681;
+}
+#line5{
+	background-color: #CA3B74;
+}
+.perfil {
+	display: inline-block;
+	color: white;
+}
+.text {
+	font-style: italic;
+	margin-left: 50px;
+}
+.perfil0 {
+	padding-left: 200px !important;
+}
+.imagenp {
+	float: inherit;
+}
+.text2 {
+	margin-left: 50px;
+}
+.yellow {
+	color: #FFD464;
+}
+.about {
+	margin-top: 100px;
+}
+.about2 {
+	margin-top: 150px;
+	padding-bottom: 90px;
+}
+#section7 {
+	background-color: #3C549A;
+}
+#line6 {
+	background-color: #293974;
+}
+input {
+	width: 400px;
+	background-color: #293974;
+	height: 50px;
+	border-radius: 5px;
+	color: white;
+	border-color: transparent;
+}
+.padding3 {
+	padding-top: 90px;
+	padding-bottom: 20px;
+}
+#input2 {
+	width: 56%;
+	height: 150px;
+}
+.padding4 {
+	padding-bottom: 50px;
+}
+#Send {
+	background-color: #35B7E9;
+	box-shadow: 0px 5px 0px 0px #38A6D6;
+}
+.padding5 {
+	padding-bottom: 90px;
+}
+#section8 {
+	background-color: #344B8E;
+	text-align: center;
+	padding: 20px;
+}
+.GT {
+	display: inline-block;
+	color: white;
+	margin-right: 50px;
+}
+.RS:hover {
+	color: #488BC2;
+}
